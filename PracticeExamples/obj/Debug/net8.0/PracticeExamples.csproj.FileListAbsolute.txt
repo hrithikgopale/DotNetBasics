@@ -1,0 +1,14 @@
+D:\ControlStructures\PracticeExamples\bin\Debug\net8.0\PracticeExamples.exe
+D:\ControlStructures\PracticeExamples\bin\Debug\net8.0\PracticeExamples.deps.json
+D:\ControlStructures\PracticeExamples\bin\Debug\net8.0\PracticeExamples.runtimeconfig.json
+D:\ControlStructures\PracticeExamples\bin\Debug\net8.0\PracticeExamples.dll
+D:\ControlStructures\PracticeExamples\bin\Debug\net8.0\PracticeExamples.pdb
+D:\ControlStructures\PracticeExamples\obj\Debug\net8.0\PracticeExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\ControlStructures\PracticeExamples\obj\Debug\net8.0\PracticeExamples.AssemblyInfoInputs.cache
+D:\ControlStructures\PracticeExamples\obj\Debug\net8.0\PracticeExamples.AssemblyInfo.cs
+D:\ControlStructures\PracticeExamples\obj\Debug\net8.0\PracticeExamples.csproj.CoreCompileInputs.cache
+D:\ControlStructures\PracticeExamples\obj\Debug\net8.0\PracticeExamples.dll
+D:\ControlStructures\PracticeExamples\obj\Debug\net8.0\refint\PracticeExamples.dll
+D:\ControlStructures\PracticeExamples\obj\Debug\net8.0\PracticeExamples.pdb
+D:\ControlStructures\PracticeExamples\obj\Debug\net8.0\PracticeExamples.genruntimeconfig.cache
+D:\ControlStructures\PracticeExamples\obj\Debug\net8.0\ref\PracticeExamples.dll

@@ -1,0 +1,14 @@
+D:\ControlStructures\BasicArrays\bin\Debug\net8.0\BasicArrays.exe
+D:\ControlStructures\BasicArrays\bin\Debug\net8.0\BasicArrays.deps.json
+D:\ControlStructures\BasicArrays\bin\Debug\net8.0\BasicArrays.runtimeconfig.json
+D:\ControlStructures\BasicArrays\bin\Debug\net8.0\BasicArrays.dll
+D:\ControlStructures\BasicArrays\bin\Debug\net8.0\BasicArrays.pdb
+D:\ControlStructures\BasicArrays\obj\Debug\net8.0\BasicArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\ControlStructures\BasicArrays\obj\Debug\net8.0\BasicArrays.AssemblyInfoInputs.cache
+D:\ControlStructures\BasicArrays\obj\Debug\net8.0\BasicArrays.AssemblyInfo.cs
+D:\ControlStructures\BasicArrays\obj\Debug\net8.0\BasicArrays.csproj.CoreCompileInputs.cache
+D:\ControlStructures\BasicArrays\obj\Debug\net8.0\BasicArrays.dll
+D:\ControlStructures\BasicArrays\obj\Debug\net8.0\refint\BasicArrays.dll
+D:\ControlStructures\BasicArrays\obj\Debug\net8.0\BasicArrays.pdb
+D:\ControlStructures\BasicArrays\obj\Debug\net8.0\BasicArrays.genruntimeconfig.cache
+D:\ControlStructures\BasicArrays\obj\Debug\net8.0\ref\BasicArrays.dll

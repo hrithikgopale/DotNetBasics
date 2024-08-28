@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ControlStructures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF84D98F-D4B3-4531-B63B-E340AF5AA32E}|ArrayProgramPractices\\ArrayProgramPractices.csproj|d:\\controlstructures\\arrayprogrampractices\\practice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF84D98F-D4B3-4531-B63B-E340AF5AA32E}|ArrayProgramPractices\\ArrayProgramPractices.csproj|solutionrelative:arrayprogrampractices\\practice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF84D98F-D4B3-4531-B63B-E340AF5AA32E}|ArrayProgramPractices\\ArrayProgramPractices.csproj|d:\\controlstructures\\arrayprogrampractices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF84D98F-D4B3-4531-B63B-E340AF5AA32E}|ArrayProgramPractices\\ArrayProgramPractices.csproj|solutionrelative:arrayprogrampractices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E51647-64F9-4DCF-BC1A-BC9CFA74721F}|ControlStructures\\CntrlSrctresBasics.csproj|d:\\controlstructures\\controlstructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E51647-64F9-4DCF-BC1A-BC9CFA74721F}|ControlStructures\\CntrlSrctresBasics.csproj|solutionrelative:controlstructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Practice1.cs",
+              "DocumentMoniker": "D:\\ControlStructures\\ArrayProgramPractices\\Practice1.cs",
+              "RelativeDocumentMoniker": "ArrayProgramPractices\\Practice1.cs",
+              "ToolTip": "D:\\ControlStructures\\ArrayProgramPractices\\Practice1.cs",
+              "RelativeToolTip": "ArrayProgramPractices\\Practice1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T07:31:41.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ControlStructures\\ControlStructures\\Program.cs",
+              "RelativeDocumentMoniker": "ControlStructures\\Program.cs",
+              "ToolTip": "D:\\ControlStructures\\ControlStructures\\Program.cs",
+              "RelativeToolTip": "ControlStructures\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T04:34:50.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ControlStructures\\ArrayProgramPractices\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayProgramPractices\\Program.cs",
+              "ToolTip": "D:\\ControlStructures\\ArrayProgramPractices\\Program.cs",
+              "RelativeToolTip": "ArrayProgramPractices\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T04:24:06.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

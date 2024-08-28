@@ -1,0 +1,14 @@
+D:\ControlStructures\ArrayProgramPractices\bin\Debug\net8.0\ArrayProgramPractices.exe
+D:\ControlStructures\ArrayProgramPractices\bin\Debug\net8.0\ArrayProgramPractices.deps.json
+D:\ControlStructures\ArrayProgramPractices\bin\Debug\net8.0\ArrayProgramPractices.runtimeconfig.json
+D:\ControlStructures\ArrayProgramPractices\bin\Debug\net8.0\ArrayProgramPractices.dll
+D:\ControlStructures\ArrayProgramPractices\bin\Debug\net8.0\ArrayProgramPractices.pdb
+D:\ControlStructures\ArrayProgramPractices\obj\Debug\net8.0\ArrayProgramPractices.GeneratedMSBuildEditorConfig.editorconfig
+D:\ControlStructures\ArrayProgramPractices\obj\Debug\net8.0\ArrayProgramPractices.AssemblyInfoInputs.cache
+D:\ControlStructures\ArrayProgramPractices\obj\Debug\net8.0\ArrayProgramPractices.AssemblyInfo.cs
+D:\ControlStructures\ArrayProgramPractices\obj\Debug\net8.0\ArrayProgramPractices.csproj.CoreCompileInputs.cache
+D:\ControlStructures\ArrayProgramPractices\obj\Debug\net8.0\ArrayProgramPractices.dll
+D:\ControlStructures\ArrayProgramPractices\obj\Debug\net8.0\refint\ArrayProgramPractices.dll
+D:\ControlStructures\ArrayProgramPractices\obj\Debug\net8.0\ArrayProgramPractices.pdb
+D:\ControlStructures\ArrayProgramPractices\obj\Debug\net8.0\ArrayProgramPractices.genruntimeconfig.cache
+D:\ControlStructures\ArrayProgramPractices\obj\Debug\net8.0\ref\ArrayProgramPractices.dll

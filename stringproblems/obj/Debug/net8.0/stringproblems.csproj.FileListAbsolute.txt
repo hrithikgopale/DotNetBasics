@@ -1,0 +1,14 @@
+D:\ControlStructures\stringproblems\bin\Debug\net8.0\stringproblems.exe
+D:\ControlStructures\stringproblems\bin\Debug\net8.0\stringproblems.deps.json
+D:\ControlStructures\stringproblems\bin\Debug\net8.0\stringproblems.runtimeconfig.json
+D:\ControlStructures\stringproblems\bin\Debug\net8.0\stringproblems.dll
+D:\ControlStructures\stringproblems\bin\Debug\net8.0\stringproblems.pdb
+D:\ControlStructures\stringproblems\obj\Debug\net8.0\stringproblems.GeneratedMSBuildEditorConfig.editorconfig
+D:\ControlStructures\stringproblems\obj\Debug\net8.0\stringproblems.AssemblyInfoInputs.cache
+D:\ControlStructures\stringproblems\obj\Debug\net8.0\stringproblems.AssemblyInfo.cs
+D:\ControlStructures\stringproblems\obj\Debug\net8.0\stringproblems.csproj.CoreCompileInputs.cache
+D:\ControlStructures\stringproblems\obj\Debug\net8.0\stringproblems.dll
+D:\ControlStructures\stringproblems\obj\Debug\net8.0\refint\stringproblems.dll
+D:\ControlStructures\stringproblems\obj\Debug\net8.0\stringproblems.pdb
+D:\ControlStructures\stringproblems\obj\Debug\net8.0\stringproblems.genruntimeconfig.cache
+D:\ControlStructures\stringproblems\obj\Debug\net8.0\ref\stringproblems.dll

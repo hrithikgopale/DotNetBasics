@@ -1,0 +1,14 @@
+D:\ControlStructures\DictionaryBasics\bin\Debug\net8.0\DictionaryBasics.exe
+D:\ControlStructures\DictionaryBasics\bin\Debug\net8.0\DictionaryBasics.deps.json
+D:\ControlStructures\DictionaryBasics\bin\Debug\net8.0\DictionaryBasics.runtimeconfig.json
+D:\ControlStructures\DictionaryBasics\bin\Debug\net8.0\DictionaryBasics.dll
+D:\ControlStructures\DictionaryBasics\bin\Debug\net8.0\DictionaryBasics.pdb
+D:\ControlStructures\DictionaryBasics\obj\Debug\net8.0\DictionaryBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\ControlStructures\DictionaryBasics\obj\Debug\net8.0\DictionaryBasics.AssemblyInfoInputs.cache
+D:\ControlStructures\DictionaryBasics\obj\Debug\net8.0\DictionaryBasics.AssemblyInfo.cs
+D:\ControlStructures\DictionaryBasics\obj\Debug\net8.0\DictionaryBasics.csproj.CoreCompileInputs.cache
+D:\ControlStructures\DictionaryBasics\obj\Debug\net8.0\DictionaryBasics.dll
+D:\ControlStructures\DictionaryBasics\obj\Debug\net8.0\refint\DictionaryBasics.dll
+D:\ControlStructures\DictionaryBasics\obj\Debug\net8.0\DictionaryBasics.pdb
+D:\ControlStructures\DictionaryBasics\obj\Debug\net8.0\DictionaryBasics.genruntimeconfig.cache
+D:\ControlStructures\DictionaryBasics\obj\Debug\net8.0\ref\DictionaryBasics.dll

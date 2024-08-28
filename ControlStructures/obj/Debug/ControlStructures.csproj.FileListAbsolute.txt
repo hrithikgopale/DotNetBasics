@@ -1,0 +1,7 @@
+D:\ControlStructures\ControlStructures\obj\Debug\ControlStructures.csproj.AssemblyReference.cache
+D:\ControlStructures\ControlStructures\obj\Debug\ControlStructures.csproj.CoreCompileInputs.cache
+D:\ControlStructures\ControlStructures\bin\Debug\ControlStructures.exe.config
+D:\ControlStructures\ControlStructures\bin\Debug\ControlStructures.exe
+D:\ControlStructures\ControlStructures\bin\Debug\ControlStructures.pdb
+D:\ControlStructures\ControlStructures\obj\Debug\ControlStructures.exe
+D:\ControlStructures\ControlStructures\obj\Debug\ControlStructures.pdb
