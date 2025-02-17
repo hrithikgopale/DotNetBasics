@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+@model List<AspmvcAdopractice.Models.Product>
+
+<h2>Index</h2>
+@Html.ActionLink("Add Product", "AddProduct", "Test", new { area = "" }, new { @class = "btn btn-primary" })
+<table border="1">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Product Name</th>
+            <th scope="col">Product Category</th>
+            <th scope="col">Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var d in Model)
+        {
+            <tr>
+                <th scope="row">@d.Id</th>
+                <td>@d.pname</td>
+                <td>@d.pcat</td>
+                <td>@d.price</td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+

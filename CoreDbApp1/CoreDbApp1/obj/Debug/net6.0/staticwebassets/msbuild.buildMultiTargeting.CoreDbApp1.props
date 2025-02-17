@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CoreDbApp1.props" />
+</Project>

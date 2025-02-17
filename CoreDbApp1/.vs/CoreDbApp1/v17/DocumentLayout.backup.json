@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNetBasics\\CoreDbApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2171AF8D-2FFE-4B47-A28C-9C866BAC60FA}|AspmvcAdopractice\\AspmvcAdopractice.csproj|d:\\dotnetbasics\\coredbapp1\\aspmvcadopractice\\views\\test\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2171AF8D-2FFE-4B47-A28C-9C866BAC60FA}|AspmvcAdopractice\\AspmvcAdopractice.csproj|solutionrelative:aspmvcadopractice\\views\\test\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2171AF8D-2FFE-4B47-A28C-9C866BAC60FA}|AspmvcAdopractice\\AspmvcAdopractice.csproj|d:\\dotnetbasics\\coredbapp1\\aspmvcadopractice\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2171AF8D-2FFE-4B47-A28C-9C866BAC60FA}|AspmvcAdopractice\\AspmvcAdopractice.csproj|solutionrelative:aspmvcadopractice\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2171AF8D-2FFE-4B47-A28C-9C866BAC60FA}|AspmvcAdopractice\\AspmvcAdopractice.csproj|d:\\dotnetbasics\\coredbapp1\\aspmvcadopractice\\models\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2171AF8D-2FFE-4B47-A28C-9C866BAC60FA}|AspmvcAdopractice\\AspmvcAdopractice.csproj|solutionrelative:aspmvcadopractice\\models\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2171AF8D-2FFE-4B47-A28C-9C866BAC60FA}|AspmvcAdopractice\\AspmvcAdopractice.csproj|d:\\dotnetbasics\\coredbapp1\\aspmvcadopractice\\views\\test\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2171AF8D-2FFE-4B47-A28C-9C866BAC60FA}|AspmvcAdopractice\\AspmvcAdopractice.csproj|solutionrelative:aspmvcadopractice\\views\\test\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2171AF8D-2FFE-4B47-A28C-9C866BAC60FA}|AspmvcAdopractice\\AspmvcAdopractice.csproj|d:\\dotnetbasics\\coredbapp1\\aspmvcadopractice\\views\\test\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2171AF8D-2FFE-4B47-A28C-9C866BAC60FA}|AspmvcAdopractice\\AspmvcAdopractice.csproj|solutionrelative:aspmvcadopractice\\views\\test\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2171AF8D-2FFE-4B47-A28C-9C866BAC60FA}|AspmvcAdopractice\\AspmvcAdopractice.csproj|d:\\dotnetbasics\\coredbapp1\\aspmvcadopractice\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2171AF8D-2FFE-4B47-A28C-9C866BAC60FA}|AspmvcAdopractice\\AspmvcAdopractice.csproj|solutionrelative:aspmvcadopractice\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2171AF8D-2FFE-4B47-A28C-9C866BAC60FA}|AspmvcAdopractice\\AspmvcAdopractice.csproj|d:\\dotnetbasics\\coredbapp1\\aspmvcadopractice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2171AF8D-2FFE-4B47-A28C-9C866BAC60FA}|AspmvcAdopractice\\AspmvcAdopractice.csproj|solutionrelative:aspmvcadopractice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F95794B-A57E-42F2-B184-87530350D43D}|WebAppWithutEntityFramework\\WebAppWithutEntityFramework.csproj|d:\\dotnetbasics\\coredbapp1\\webappwithutentityframework\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4F95794B-A57E-42F2-B184-87530350D43D}|WebAppWithutEntityFramework\\WebAppWithutEntityFramework.csproj|solutionrelative:webappwithutentityframework\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2171AF8D-2FFE-4B47-A28C-9C866BAC60FA}|AspmvcAdopractice\\AspmvcAdopractice.csproj|d:\\dotnetbasics\\coredbapp1\\aspmvcadopractice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2171AF8D-2FFE-4B47-A28C-9C866BAC60FA}|AspmvcAdopractice\\AspmvcAdopractice.csproj|solutionrelative:aspmvcadopractice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2171AF8D-2FFE-4B47-A28C-9C866BAC60FA}|AspmvcAdopractice\\AspmvcAdopractice.csproj|d:\\dotnetbasics\\coredbapp1\\aspmvcadopractice\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2171AF8D-2FFE-4B47-A28C-9C866BAC60FA}|AspmvcAdopractice\\AspmvcAdopractice.csproj|solutionrelative:aspmvcadopractice\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DotNetBasics\\CoreDbApp1\\AspmvcAdopractice\\Views\\Test\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AspmvcAdopractice\\Views\\Test\\Edit.cshtml",
+              "ToolTip": "D:\\DotNetBasics\\CoreDbApp1\\AspmvcAdopractice\\Views\\Test\\Edit.cshtml",
+              "RelativeToolTip": "AspmvcAdopractice\\Views\\Test\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T21:34:53.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditProduct.cshtml",
+              "DocumentMoniker": "D:\\DotNetBasics\\CoreDbApp1\\AspmvcAdopractice\\Views\\Test\\EditProduct.cshtml",
+              "RelativeDocumentMoniker": "AspmvcAdopractice\\Views\\Test\\EditProduct.cshtml",
+              "ToolTip": "D:\\DotNetBasics\\CoreDbApp1\\AspmvcAdopractice\\Views\\Test\\EditProduct.cshtml",
+              "RelativeToolTip": "AspmvcAdopractice\\Views\\Test\\EditProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T21:12:08.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "D:\\DotNetBasics\\CoreDbApp1\\AspmvcAdopractice\\Views\\Test\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "AspmvcAdopractice\\Views\\Test\\AddProduct.cshtml",
+              "ToolTip": "D:\\DotNetBasics\\CoreDbApp1\\AspmvcAdopractice\\Views\\Test\\AddProduct.cshtml",
+              "RelativeToolTip": "AspmvcAdopractice\\Views\\Test\\AddProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T20:52:54.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDAL.cs",
+              "DocumentMoniker": "D:\\DotNetBasics\\CoreDbApp1\\AspmvcAdopractice\\Models\\ProductDAL.cs",
+              "RelativeDocumentMoniker": "AspmvcAdopractice\\Models\\ProductDAL.cs",
+              "ToolTip": "D:\\DotNetBasics\\CoreDbApp1\\AspmvcAdopractice\\Models\\ProductDAL.cs",
+              "RelativeToolTip": "AspmvcAdopractice\\Models\\ProductDAL.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAD4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T09:49:22.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\DotNetBasics\\CoreDbApp1\\AspmvcAdopractice\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "AspmvcAdopractice\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\DotNetBasics\\CoreDbApp1\\AspmvcAdopractice\\Controllers\\TestController.cs",
+              "RelativeToolTip": "AspmvcAdopractice\\Controllers\\TestController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T08:51:44.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DotNetBasics\\CoreDbApp1\\AspmvcAdopractice\\Views\\Test\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspmvcAdopractice\\Views\\Test\\Index.cshtml",
+              "ToolTip": "D:\\DotNetBasics\\CoreDbApp1\\AspmvcAdopractice\\Views\\Test\\Index.cshtml",
+              "RelativeToolTip": "AspmvcAdopractice\\Views\\Test\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T08:52:08.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\DotNetBasics\\CoreDbApp1\\AspmvcAdopractice\\Web.config",
+              "RelativeDocumentMoniker": "AspmvcAdopractice\\Web.config",
+              "ToolTip": "D:\\DotNetBasics\\CoreDbApp1\\AspmvcAdopractice\\Web.config",
+              "RelativeToolTip": "AspmvcAdopractice\\Web.config",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-13T09:18:21.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\DotNetBasics\\CoreDbApp1\\WebAppWithutEntityFramework\\Web.config",
+              "RelativeDocumentMoniker": "WebAppWithutEntityFramework\\Web.config",
+              "ToolTip": "D:\\DotNetBasics\\CoreDbApp1\\WebAppWithutEntityFramework\\Web.config",
+              "RelativeToolTip": "WebAppWithutEntityFramework\\Web.config",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAD0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-13T09:17:36.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DotNetBasics\\CoreDbApp1\\AspmvcAdopractice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AspmvcAdopractice\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DotNetBasics\\CoreDbApp1\\AspmvcAdopractice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AspmvcAdopractice\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T09:31:20.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\DotNetBasics\\CoreDbApp1\\AspmvcAdopractice\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AspmvcAdopractice\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\DotNetBasics\\CoreDbApp1\\AspmvcAdopractice\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AspmvcAdopractice\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T09:36:12.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
