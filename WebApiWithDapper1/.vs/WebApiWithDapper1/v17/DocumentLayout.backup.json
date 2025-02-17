@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNetBasics\\WebApiWithDapper1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A15E3C41-AA0C-427F-8BF2-96BCD72EABD1}|WebApiWithDapper1\\WebApiWithDapper1.csproj|d:\\dotnetbasics\\webapiwithdapper1\\webapiwithdapper1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15E3C41-AA0C-427F-8BF2-96BCD72EABD1}|WebApiWithDapper1\\WebApiWithDapper1.csproj|solutionrelative:webapiwithdapper1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15E3C41-AA0C-427F-8BF2-96BCD72EABD1}|WebApiWithDapper1\\WebApiWithDapper1.csproj|d:\\dotnetbasics\\webapiwithdapper1\\webapiwithdapper1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A15E3C41-AA0C-427F-8BF2-96BCD72EABD1}|WebApiWithDapper1\\WebApiWithDapper1.csproj|solutionrelative:webapiwithdapper1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15E3C41-AA0C-427F-8BF2-96BCD72EABD1}|WebApiWithDapper1\\WebApiWithDapper1.csproj|d:\\dotnetbasics\\webapiwithdapper1\\webapiwithdapper1\\models\\productsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15E3C41-AA0C-427F-8BF2-96BCD72EABD1}|WebApiWithDapper1\\WebApiWithDapper1.csproj|solutionrelative:webapiwithdapper1\\models\\productsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15E3C41-AA0C-427F-8BF2-96BCD72EABD1}|WebApiWithDapper1\\WebApiWithDapper1.csproj|d:\\dotnetbasics\\webapiwithdapper1\\webapiwithdapper1\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15E3C41-AA0C-427F-8BF2-96BCD72EABD1}|WebApiWithDapper1\\WebApiWithDapper1.csproj|solutionrelative:webapiwithdapper1\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNetBasics\\WebApiWithDapper1\\WebApiWithDapper1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiWithDapper1\\appsettings.json",
+              "ToolTip": "D:\\DotNetBasics\\WebApiWithDapper1\\WebApiWithDapper1\\appsettings.json",
+              "RelativeToolTip": "WebApiWithDapper1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-12T07:51:00.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\DotNetBasics\\WebApiWithDapper1\\WebApiWithDapper1\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApiWithDapper1\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\DotNetBasics\\WebApiWithDapper1\\WebApiWithDapper1\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApiWithDapper1\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:48:56.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsDto.cs",
+              "DocumentMoniker": "D:\\DotNetBasics\\WebApiWithDapper1\\WebApiWithDapper1\\Models\\ProductsDto.cs",
+              "RelativeDocumentMoniker": "WebApiWithDapper1\\Models\\ProductsDto.cs",
+              "ToolTip": "D:\\DotNetBasics\\WebApiWithDapper1\\WebApiWithDapper1\\Models\\ProductsDto.cs",
+              "RelativeToolTip": "WebApiWithDapper1\\Models\\ProductsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:47:49.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\DotNetBasics\\WebApiWithDapper1\\WebApiWithDapper1\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "WebApiWithDapper1\\Models\\Products.cs",
+              "ToolTip": "D:\\DotNetBasics\\WebApiWithDapper1\\WebApiWithDapper1\\Models\\Products.cs",
+              "RelativeToolTip": "WebApiWithDapper1\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:45:36.712Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
