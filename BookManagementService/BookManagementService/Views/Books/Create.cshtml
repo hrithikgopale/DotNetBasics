@@ -1,0 +1,19 @@
+﻿
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Create";
+}
+@model Book
+<h3>Add books</h3>
+
+<form action="post">
+
+    BookName:<input type="text"  asp-for="Title"/><br /><br />
+    Authorname<input type="text"  asp-for="author"/><br /> <br />
+    price<input type="text" asp-for="price"/> <br /> <br />
+
+    <input type="submit"  value="save"/>
+
+</form>

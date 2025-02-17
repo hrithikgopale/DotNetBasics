@@ -1,0 +1,33 @@
+﻿
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Edit";
+}
+
+@model Book
+
+<div class="container mt-5">
+    <h2>Edit Book</h2>
+    <form asp-action="Edit" method="post" class="needs-validation" novalidate>
+        <input type="hidden" asp-for="Id" />
+        <div class="mb-3">
+            <label asp-for="Title" class="form-label">Title</label>
+            <input asp-for="Title" class="form-control" required />
+            <span asp-validation-for="Title" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="author" class="form-label">Author</label>
+            <input asp-for="author" class="form-control" required />
+            <span asp-validation-for="author" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="price" class="form-label">Price</label>
+            <input asp-for="price" type="number" step="0.01" class="form-control" required />
+            <span asp-validation-for="price" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Save Changes</button>
+    </form>
+</div>
+

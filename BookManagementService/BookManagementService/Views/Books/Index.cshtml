@@ -1,0 +1,56 @@
+﻿
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Index";
+}
+@model List<Book>
+Hello @ViewBag.Us
+<h2>Book Management</h2>
+@**@
+<table class="table">
+    <thead>
+        <tr>
+            <th>BookId</th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Price</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Id</td>
+                <td>@book.Title</td>
+                <td>@book.author</td>
+                <td>@book.price</td>
+                <td>
+                    <a asp-controller="Books" asp-action="Edit" asp-route-id="@book.Id" class="btn btn-sm btn-success">Edit</a>
+                    <a asp-controller="Books" asp-action="Delete" asp-route-id="@book.Id" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h3 class="mt-5">Add New Book</h3>
+<form asp-action="Create" method="post" class="row g-3">
+    <div class="col-md-4">
+        <label for="Title" class="form-label">Title</label>
+        <input type="text" name="Title" id="Title" class="form-control" required />
+    </div>
+    <div class="col-md-4">
+        <label for="Author" class="form-label">Author</label>
+        <input type="text" name="author" id="Author" class="form-control" required />
+    </div>
+    <div class="col-md-4">
+        <label for="Price" class="form-label">Price</label>
+        <input type="number" name="price" id="Price" class="form-control" step="0.01" required />
+    </div>
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Add Book</button>
+    </div>
+</form>
