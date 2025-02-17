@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNetBasics\\AuthTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C047DAAC-5B8E-4509-9998-6E35AEC2AD2D}|AuthTest\\AuthTest.csproj|d:\\dotnetbasics\\authtest\\authtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C047DAAC-5B8E-4509-9998-6E35AEC2AD2D}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C047DAAC-5B8E-4509-9998-6E35AEC2AD2D}|AuthTest\\AuthTest.csproj|d:\\dotnetbasics\\authtest\\authtest\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C047DAAC-5B8E-4509-9998-6E35AEC2AD2D}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C047DAAC-5B8E-4509-9998-6E35AEC2AD2D}|AuthTest\\AuthTest.csproj|d:\\dotnetbasics\\authtest\\authtest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C047DAAC-5B8E-4509-9998-6E35AEC2AD2D}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C047DAAC-5B8E-4509-9998-6E35AEC2AD2D}|AuthTest\\AuthTest.csproj|d:\\dotnetbasics\\authtest\\authtest\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C047DAAC-5B8E-4509-9998-6E35AEC2AD2D}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C047DAAC-5B8E-4509-9998-6E35AEC2AD2D}|AuthTest\\AuthTest.csproj|d:\\dotnetbasics\\authtest\\authtest\\migrations\\20250116085504_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C047DAAC-5B8E-4509-9998-6E35AEC2AD2D}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\migrations\\20250116085504_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C047DAAC-5B8E-4509-9998-6E35AEC2AD2D}|AuthTest\\AuthTest.csproj|d:\\dotnetbasics\\authtest\\authtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C047DAAC-5B8E-4509-9998-6E35AEC2AD2D}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C047DAAC-5B8E-4509-9998-6E35AEC2AD2D}|AuthTest\\AuthTest.csproj|d:\\dotnetbasics\\authtest\\authtest\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C047DAAC-5B8E-4509-9998-6E35AEC2AD2D}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DotNetBasics\\AuthTest\\AuthTest\\Migrations\\20250114172553_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthTest\\Migrations\\20250114172553_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DotNetBasics\\AuthTest\\AuthTest\\Migrations\\20250114172419_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthTest\\Migrations\\20250114172419_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\DotNetBasics\\AuthTest\\AuthTest\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AuthTest\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\DotNetBasics\\AuthTest\\AuthTest\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AuthTest\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T04:49:38.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250116085504_initial.cs",
+              "DocumentMoniker": "D:\\DotNetBasics\\AuthTest\\AuthTest\\Migrations\\20250116085504_initial.cs",
+              "RelativeDocumentMoniker": "AuthTest\\Migrations\\20250116085504_initial.cs",
+              "ToolTip": "D:\\DotNetBasics\\AuthTest\\AuthTest\\Migrations\\20250116085504_initial.cs",
+              "RelativeToolTip": "AuthTest\\Migrations\\20250116085504_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:55:05.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250114172553_users.cs",
+              "DocumentMoniker": "D:\\DotNetBasics\\AuthTest\\AuthTest\\Migrations\\20250114172553_users.cs",
+              "RelativeDocumentMoniker": "AuthTest\\Migrations\\20250114172553_users.cs",
+              "ToolTip": "D:\\DotNetBasics\\AuthTest\\AuthTest\\Migrations\\20250114172553_users.cs",
+              "RelativeToolTip": "AuthTest\\Migrations\\20250114172553_users.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:25:53.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250114172419_initial.cs",
+              "DocumentMoniker": "D:\\DotNetBasics\\AuthTest\\AuthTest\\Migrations\\20250114172419_initial.cs",
+              "RelativeDocumentMoniker": "AuthTest\\Migrations\\20250114172419_initial.cs",
+              "ToolTip": "D:\\DotNetBasics\\AuthTest\\AuthTest\\Migrations\\20250114172419_initial.cs",
+              "RelativeToolTip": "AuthTest\\Migrations\\20250114172419_initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:24:19.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\DotNetBasics\\AuthTest\\AuthTest\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthTest\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\DotNetBasics\\AuthTest\\AuthTest\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthTest\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:20:02.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\DotNetBasics\\AuthTest\\AuthTest\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AuthTest\\Models\\User.cs",
+              "ToolTip": "D:\\DotNetBasics\\AuthTest\\AuthTest\\Models\\User.cs",
+              "RelativeToolTip": "AuthTest\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:16:54.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNetBasics\\AuthTest\\AuthTest\\Program.cs",
+              "RelativeDocumentMoniker": "AuthTest\\Program.cs",
+              "ToolTip": "D:\\DotNetBasics\\AuthTest\\AuthTest\\Program.cs",
+              "RelativeToolTip": "AuthTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:09:31.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNetBasics\\AuthTest\\AuthTest\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthTest\\appsettings.json",
+              "ToolTip": "D:\\DotNetBasics\\AuthTest\\AuthTest\\appsettings.json",
+              "RelativeToolTip": "AuthTest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T17:08:18.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\DotNetBasics\\AuthTest\\AuthTest\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AuthTest\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\DotNetBasics\\AuthTest\\AuthTest\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AuthTest\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:06:24.99Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
